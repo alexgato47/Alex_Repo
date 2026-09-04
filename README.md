@@ -1,4 +1,5 @@
-# Alex_Repo
+# Repositorio para el curso
 Proyectos de Github
 
-## Repositorio creado para el curso
+## descripcion
+este es un repo de alejandro 
