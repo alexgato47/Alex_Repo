@@ -1,0 +1,4 @@
+nombre = "alex"
+apellido = "uribe"
+
+print ("hola " + nombre + apellido)
