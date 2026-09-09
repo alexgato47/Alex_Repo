@@ -1,4 +1,4 @@
-nombre = "Soy"
+nombre = "Soy alex "
 apellido = "uribe"
 
 print ("hola " + nombre + apellido)
